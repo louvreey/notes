@@ -5,5 +5,5 @@ export const NoteSchema = {
     note: 'string',
     date: 'string',
   },
-  primaryKey: 'is',
+  primaryKey: 'id',
 };
